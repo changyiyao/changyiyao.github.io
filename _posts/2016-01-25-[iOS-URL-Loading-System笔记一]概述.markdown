@@ -61,7 +61,9 @@ NSHTTPCookieStorage提供管理NSHttpCookie对象的接口。
 ## NSURLSession对HTTP协议版本支持情况
 
 iOS 9 : HTTP1.X, SPDY, HTTP/2
+
 iOS 8 : HTTP/1.x, SPDY
+
 iOS 7 : HTTP/1.x
 
 ## 参考链接
